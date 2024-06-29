@@ -39,7 +39,6 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/ipl-win-predictor.git
-   cd ipl-win-predictor
+   git clone https://github.com/Elangovan0101/-IPL-WINNING-TEAM-PREDICTION.git
 
 2. To run the Streamlit app locally, use the command: `python -m streamlit run app.py`.
