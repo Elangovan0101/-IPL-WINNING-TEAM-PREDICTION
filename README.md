@@ -2,9 +2,6 @@
 
 ![Project Preview](https://static.iwmbuzz.com/wp-content/uploads/2022/04/ipl-teams-that-have-been-discontinued-from-the-deccan-chargers-to-pune-warriors-7.jpg)
 
-## Live Demo
-[Live Demo](live_demo_link_here)
-
 ## Project Overview
 Welcome to the "IPL Win Predictor" project! This machine learning model uses logistic regression to predict the probability of a team winning an IPL match based on the current match situation. Get ready to make data-driven predictions!
 
